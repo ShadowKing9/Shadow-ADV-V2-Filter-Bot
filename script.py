@@ -21,7 +21,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/MasterShad0w/Shadow-ADV-V1-Filter-Bot'>GitHub</a> - Click here 👈
+Source: <a href='https://github.com/MasterShad0w/Shadow-ADV-V2-Filter-Bot'>GitHub</a> - Click here 👈
 
 <b>DEVS:</b>
 - <a href='https://t.me/ShadowKing9o'>Shadow King</a>
