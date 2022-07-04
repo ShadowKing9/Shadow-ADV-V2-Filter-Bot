@@ -128,7 +128,7 @@ Do as you wish with telegra.ph module!
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member.
-• Separate bot is also available - <a href='https://t.me/ShadowTelegraphBot'>Shadow Telegraph Bot</a>""""""
+• Separate bot is also available - <a href='https://t.me/ShadowTelegraphBot'>Shadow Telegraph Bot</a>"""
 
     INFO_TXT = """Help: <b>Information</b>
 
